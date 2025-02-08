@@ -1,0 +1,5 @@
+baseURL = 'https://scriptify-roblox.github.io/scriptify.github.io/'
+languageCode = 'en-us'
+title = 'Scriptify'
+
+theme = 'hugo-cards'

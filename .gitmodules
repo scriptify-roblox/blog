@@ -1,0 +1,4 @@
+[submodule "scriptifyblog/public"]
+	path = scriptifyblog/public
+	url = https://github.com/scriptify-roblox/scriptify.github.io.git
+	branch = main
